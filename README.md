@@ -1,2 +1,2 @@
-# Cotacao_Tempo_Real_MVC
-Sistema Criado em JAVA que avisa o valor que a moeda corrente de determinado, pais está valendo no mercado em tempo real.
+# cotacao-de-moedas-2
+MVC utilizando javaSE e JSON + DB4O (Observer e Singleton Pattern)
